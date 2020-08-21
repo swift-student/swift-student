@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Hello there, my name is Shawn Gee
 
-<!--
-**swift-student/swift-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After spending most of my professional career as a woodworker, I decided to switch from building things physically using wood and glue to building things virtually with code. While many things are very different about each profession, both of them share underlying similarities such that my attention to detail and passion for quality allows me to excel. 
 
-Here are some ideas to get you started:
+I am passionate about not only learning and building, but also helping others learn Swift and iOS development themselves. I love mentoring developers who are earlier in their journey. Demonstrating and explaining concepts to my mentees only solidifies them further in my head, so it's definitely a win-win situation! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔨 I’m currently working on: 
+- Building an app for [Eco-Soap Bank](https://ecosoapbank.org)
+- Leading a team of students at [Lambda School](https://lambdaschool.com)
+
+### ⌨️ My top skills are:
+- Debugging
+- Swift
+- UIKit
+
+### 📫 How to reach me: 
+- [@swift_student on Twitter](https://twitter.com/swift_student)
+- [LinkedIn](https://www.linkedin.com/in/shawngee/)
+
