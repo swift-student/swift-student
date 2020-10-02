@@ -6,7 +6,7 @@ I am passionate about not only learning and building, but also helping others le
 
 
 ### 🔨 I’m currently working on: 
-- Building an app for [Eco-Soap Bank](https://ecosoapbank.org)
+- Hunting for a job - let me know if you are hiring and think I might be a good fit! 
 - Leading a team of students at [Lambda School](https://lambdaschool.com)
 
 ### ⌨️ My top skills are:
