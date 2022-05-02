@@ -6,13 +6,13 @@ I am passionate about not only learning and building, but also helping others le
 
 
 ### 🔨 I’m currently working on: 
-- Hunting for a job - let me know if you are hiring and think I might be a good fit! 
-- Leading a team of students at [Lambda School](https://lambdaschool.com)
+- Developing [ProPresenter](https://renewedvision.com/propresenter/) presentation software at [Renewed Vision](https://renewedvision.com).
 
 ### ⌨️ My top skills are:
 - Debugging
 - Swift
 - UIKit
+- AppKit
 
 ### 📫 How to reach me: 
 - [@swift_student on Twitter](https://twitter.com/swift_student)
