@@ -1,12 +1,6 @@
 ## 👋 Hello there, my name is Shawn Gee
 
-After spending most of my professional career as a woodworker, I decided to switch from building things physically using wood and glue to building things virtually with code. While many things are very different about each profession, both of them share underlying similarities such that my attention to detail and passion for quality allows me to excel. 
-
-I am passionate about not only learning and building, but also helping others learn Swift and iOS development themselves. I love mentoring developers who are earlier in their journey. Demonstrating and explaining concepts to my mentees only solidifies them further in my head, so it's definitely a win-win situation! 
-
-
-### 🔨 I’m currently working on: 
-- Developing [ProPresenter](https://renewedvision.com/propresenter/) presentation software at [Renewed Vision](https://renewedvision.com).
+### 🔨 I’m currently working as a Senior Software Engineer at Turo
 
 ### ⌨️ My top skills are:
 - Debugging
